@@ -1,0 +1,10 @@
+.dataBox {
+  width: 40%;
+  margin: 20px auto;
+  border: 1px solid black;
+  box-shadow: 2px 3px;
+}
+
+.date {
+  width: 55px;
+}
